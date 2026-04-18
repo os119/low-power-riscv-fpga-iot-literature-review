@@ -13,4 +13,4 @@ Working on this helped me build a better understanding of current challenges in 
 - TinyML on resource-constrained devices
 
 ## Included file
-- [Literature Review PDF](./Literature%20Review.pdf)
+- [Literature Review PDF](./Literature_Review.pdf)
